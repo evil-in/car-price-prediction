@@ -13,11 +13,11 @@ The test dataset consisted of 8,245 rows and 18 columns.
 
 ## Method: 
 1. **Base-line model**: Linear Regression Model
-* RMSLE on cross-validation dataset = 1.62,
+* RMSLE on cross-validation dataset = 1.62
 * RMSLE on test dataset = 1.63
 
 2. **Final Model**: Random Forest Regressor 
-* RMSLE on cross-validation dataset = 1.34,
+* RMSLE on cross-validation dataset = 1.34
 * RMLSE on test dataset = 1.45
 
 #### NOTE: 

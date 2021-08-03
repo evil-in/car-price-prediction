@@ -12,13 +12,13 @@ The test dataset consisted of 8,245 rows and 18 columns.
 
 ## Method: 
 * **Base-line model**: Linear Regression Model
-> RMSLE on cross-validation dataset = 1.62
+> RMSLE on cross-validation dataset = 1.62,
 > RMSLE on test dataset = 1.63
 
 * **Final Model**: Random Forest Regressor 
-> RMSLE on cross-validation dataset = 1.34
+> RMSLE on cross-validation dataset = 1.34,
 > RMLSE on test dataset = 1.45
 
 #### NOTE: 
-This project was as part of a  hackathon hosted by MachineHack.
+This project was as part of the MATHCO.THON hackathon hosted by MachineHack. [View details](https://machinehack.com/hackathons/data_hack_mathcothon_car_price_prediction_challenge/overview)
 The final model built generated a submission of prices that placed me on the leaderboard with a rank of 50. 

@@ -12,11 +12,11 @@ The training dataset consisted of 19,236 rows and 18 columns.
 The test dataset consisted of 8,245 rows and 18 columns. 
 
 ## Method: 
-1. **Base-line model**: Linear Regression Model
+1. **Base-line model**: Linear Regression Model [Code](https://github.com/evil-in/car-price-prediction/blob/main/car_price_prediction-linear_model.ipynb)
 * RMSLE on cross-validation dataset = 1.62
 * RMSLE on test dataset = 1.63
 
-2. **Final Model**: Random Forest Regressor 
+2. **Final Model**: Random Forest Regressor [Code](https://github.com/evil-in/car-price-prediction/blob/main/car_price_prediction-Random_Forrest_Model.ipynb)
 * RMSLE on cross-validation dataset = 1.34
 * RMLSE on test dataset = 1.45
 

@@ -21,4 +21,4 @@ Root Mean Square Log Error(RMSLE)
 * RMLSE on test dataset = 1.45
 
 #### NOTE: 
-This project was as part of the MATHCO.THON hackathon hosted by MachineHack. [(View details)](https://machinehack.com/hackathons/data_hack_mathcothon_car_price_prediction_challenge/overview)
+This project was as part of the MATHCO.THON hackathon hosted by MachineHack and organised by The Math Company. [(View details)](https://machinehack.com/hackathons/data_hack_mathcothon_car_price_prediction_challenge/overview)
